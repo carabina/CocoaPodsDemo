@@ -1,0 +1,16 @@
+PODS:
+  - CocoaPodsDemo (0.1.0)
+
+DEPENDENCIES:
+  - CocoaPodsDemo (from `../`)
+
+EXTERNAL SOURCES:
+  CocoaPodsDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CocoaPodsDemo: 1d0b49b506ab982e7e62d908ba655fce83769742
+
+PODFILE CHECKSUM: 9fd5a20795488763d810186b6e699c06bd74ea4d
+
+COCOAPODS: 1.1.0.beta.1
